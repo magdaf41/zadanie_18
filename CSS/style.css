@@ -1,0 +1,23 @@
+div{
+    background-color: #faebd6;
+    margin: 100px;
+    height: 350px;
+    width: 80%;
+}
+h1{
+    color: #ff0000;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+p{
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+#p_first{
+    color: #a42423;
+
+}
+#p_second{
+    color: #00008f;
+}
+
